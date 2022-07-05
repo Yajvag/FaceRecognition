@@ -1,0 +1,19 @@
+body{
+    color:royalblue;
+    background: linear-gradient(rgb(9, 255, 21) 0%,#ff5100 100%);
+}
+
+.heading{
+    width:80%;
+    font-size: 22px;
+}
+
+#camera{
+    border:2px dashed rebeccapurple;
+    width: 350px;
+    height:300px;
+}
+
+.name_of_objects, #result_object_name, #result_object_accuracy{
+    color:palegreen;
+}
